@@ -1,9 +1,8 @@
 # Import libraries
+# Make sure you have Pillow installed
 import tkinter as tk
 from PIL import Image, ImageTk
 import os
-
-
 
 # Create the window
 window = tk.Tk()
