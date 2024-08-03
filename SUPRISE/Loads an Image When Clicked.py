@@ -1,9 +1,11 @@
 # Import libraries
-# Make sure you have Pillow installed
 import tkinter as tk
 from PIL import Image, ImageTk
 import os
 
+#THis should make it the same directory
+directory_path = os.path.dirname(__file__)
+file_path = os.path.join(directory_path, 'DK.png')
 # Create the window
 window = tk.Tk()
 window.geometry("480x480")
@@ -14,7 +16,7 @@ text_label.pack()
 
 # Load the Image
 def DK():
-    picture = Image.open("DK.png")
+    picture = Image.open(file_path)
     image = ImageTk.PhotoImage(picture)
     image_label = tk.Label(window, image=image)
     image_label.image = image
