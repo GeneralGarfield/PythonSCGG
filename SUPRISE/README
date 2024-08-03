@@ -1,0 +1,14 @@
+COPYRIGHT NINTENDO OF AMERICA @2024
+The picture of Donkey Kong is just there as an example for my work. 
+All Nintendo character belong to their original owner.
+
+In order for this to run you will need pillow module for python.
+  you can install using this 
+  'pip install pillow'
+
+Once installed make sure the picture of DK is in the same folder as the script. 
+If the name is changed it will not work. Trust me it was a huge headache trying to figure this out
+but in the end i managed. And that should be it. Make sure your up to date on python
+
+Thank you all for supporting me :D
+GeneralGarfield.
