@@ -1,4 +1,5 @@
 # This is going to be a Python GUI that just counts. Should be pretty easy.
+# This File Currently does not work its just a place holder
 
 import tkinter as tk
 import random 
