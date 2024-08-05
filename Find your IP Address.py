@@ -1,4 +1,5 @@
-# FUN FACT: This whole script is not that diffrent from my last one just some modifications were mad.
+# FUN FACT: This whole script is not that diffrent from my last one 
+# Only some lines were change
 
 # Imports libraries
 import tkinter as tk
