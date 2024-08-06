@@ -9,8 +9,9 @@ Run this script to install in windows
 
   'PIP install pillow'
 
-And make sure the image is in the same folder as the script or it will not run. Thank you guys. I feel like i've imporved over
-these last couple of days working on scripts. And hopefully i will be able to create something that everyone will use.
+And make sure the image is in the same folder as the script, but if its not there that is okay as well it will still run. 
+Thank you guys. I feel like i've improved over these last couple of days working on scripts. 
+And hopefully i will be able to create something that everyone will use.
 Thank you all
 
 GeneralGarfield
