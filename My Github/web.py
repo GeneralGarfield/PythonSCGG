@@ -20,7 +20,7 @@ Banner = tk.Label(text= "This is my Github page please Check it out!",
 Banner.pack()
 
 
-
+# Creates the functions for the website and for the picture to load up
 
 def website():
     web.open("https://github.com/GeneralGarfield/PythonSCGG/")
