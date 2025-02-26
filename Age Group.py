@@ -2,7 +2,7 @@
 # Description: Determines the age and organizes it.
 #   
 #
-# Author: <Ricardo Montoya-Adame> 
+# Author: <> 
 # Date: <19/2/2025>
 # Revised: 
 #   <19/2/2025>
